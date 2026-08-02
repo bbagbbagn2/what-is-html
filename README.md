@@ -1,4 +1,4 @@
-# what is HTML
+# what-is-html
 
 ## HTML 이전의 세상
 - 각자 다른 컴퓨터, 다른 운영체제, 다른 문서 포맷을 사용했다.
