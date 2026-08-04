@@ -1,4 +1,4 @@
-# what-is-html
+# HTML이 뭘까
 
 ## HTML 이전의 세상
 [HTML 이전의 세상](01-HTML-이전의-세상.md)
