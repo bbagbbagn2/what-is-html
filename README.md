@@ -2,9 +2,9 @@
 
 ## 구성
 
-| # | 문서 |
-|---|------|
-| 01 | [HTML 이전의 세상](01-HTML-이전의-세상.md) |
+| # | 문서 | 주제 |
+|---|------|--------|
+| 01 | [HTML 이전의 세상](01-HTML-이전의-세상.md) | Vannevar Bush, Theodor Holm Nelson, Douglas C. Engelbart, Hypertext |
 
 ### 1) CERN에서의 제안
 - 팀 버너스리(CERN의 소프트웨어 엔지니어)는 "정보 관리: 제안(Information Management: A Personal)"이라는 문서를 통해 하이퍼텍스트 기반의 CERN 내부 문서를 연결하는 시스템을 제안했다.
