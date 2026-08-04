@@ -1,7 +1,7 @@
 # what-is-html
 
 ## HTML 이전의 세상
-[Before-HTML](Before-HTML.md)
+[HTML 이전의 세상](01-HTML-이전의-세상.md)
 
 ## HTML의 탄생 - 팀 버너스리와 월드와이드웹
 
